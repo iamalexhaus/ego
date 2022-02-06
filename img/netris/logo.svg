@@ -1,37 +1,120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="45.470001"
-   height="52.490002"
+   width="116"
+   height="92"
+   viewBox="0 0 30.691667 24.341668"
    version="1.1"
-   id="svg13"
-   sodipodi:docname="logo.svg"
+   id="svg2493"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview15"
+     id="namedview2495"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="5.3381643"
-     inkscape:cx="103.40633"
-     inkscape:cy="27.443891"
+     inkscape:document-units="mm"
+     showgrid="true"
+     width="209mm"
+     units="px"
+     inkscape:zoom="5.4981979"
+     inkscape:cx="41.559072"
+     inkscape:cy="48.470427"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="-8"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2521"
+       enabled="false"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       originx="83.000003"
+       originy="148.5" />
+    <sodipodi:guide
+       position="0,24.341667"
+       orientation="0,116"
+       id="guide2800" />
+    <sodipodi:guide
+       position="30.691668,24.341667"
+       orientation="92,0"
+       id="guide2802" />
+    <sodipodi:guide
+       position="30.691668,0"
+       orientation="0,-116"
+       id="guide2804" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-92,0"
+       id="guide2806" />
+  </sodipodi:namedview>
   <defs
-     id="defs5" />
-  <path
-     d="M 22.73,0 0,13.12 V 39.36 L 22.73,52.49 45.47,39.37 V 13.12 Z m 13.62,11.6 5.89,3.4 v 6.34 l -5.88,5.89 z m 1.78,28.27 -10.6,6.13 -6,-6.11 z M 3.24,15.67 H 13.76 L 13.4,16 c -0.3,0.28 -0.6,0.58 -0.87,0.87 l -9.29,9.32 z m 12.42,2.67 A 10.44,10.44 0 1 1 15.73,34 L 14.55,32.8 A 10.4,10.4 0 0 1 14.8,19.2 Z m 7.72,-5.87 H 7.65 l 10.21,-5.92 6,6 z M 12.24,35 a 13.54,13.54 0 0 0 1.19,1.21 l 11.2,11.41 -1.9,1.1 L 12,42.54 V 34.75 Z M 33.11,17.16 20.76,4.87 l 2,-1.14 10.38,6 v 7.44 z M 31.5,36.63 42.23,25.91 v 10.72 z m -22.77,4 -5.5,-3.13 v -6.74 l 5.5,-5.49 z"
-     fill="#273a64"
-     id="path9" />
+     id="defs2490">
+    <linearGradient
+       id="linearGradient5361"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5359" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5317"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#565656;stop-opacity:1;"
+         offset="0"
+         id="stop5315" />
+    </linearGradient>
+    <color-profile
+       name="Agfa-:-Swop-Standard"
+       xlink:href="../../../../../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
+       id="color-profile5375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5317"
+       id="linearGradient5331"
+       gradientUnits="userSpaceOnUse"
+       x1="5.4090722"
+       y1="12.218492"
+       x2="25.488272"
+       y2="12.218492" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5361"
+       id="linearGradient5363"
+       x1="5.1882767"
+       y1="12.218504"
+       x2="25.709067"
+       y2="12.218504"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 15.446462,0.62890343 5.4090722,6.4225958 V 18.009971 l 10.0373898,5.79811 10.04181,-5.793693 V 6.4225958 Z m 6.014491,5.12246597 2.600974,1.5014202 v 2.7996894 l -2.596556,2.600984 z m 0.786038,12.4838146 -4.680883,2.70696 -2.64955,-2.698131 z M 6.839836,7.5486515 H 11.48538 L 11.326413,7.6943826 C 11.193937,7.8180219 11.061451,7.9504979 10.942221,8.078565 l -4.102385,4.11564 z m 5.484575,1.1790573 a 4.6102228,4.6102228 0 1 1 0.03095,6.9153282 L 11.834282,15.113125 A 4.592559,4.592559 0 0 1 11.944675,9.1074726 Z M 15.733497,6.1355613 H 8.7872583 L 13.295908,3.5213312 15.945467,6.1708895 Z M 10.814163,16.08463 a 5.9791585,5.9791585 0 0 0 0.525496,0.534323 l 4.945834,5.038575 -0.839031,0.485748 -4.738284,-2.729042 v -3.440006 z m 9.216035,-7.8780074 -5.453667,-5.4271647 0.883187,-0.5034125 4.583726,2.6495487 v 3.2854468 z m -0.710964,8.5977984 4.738284,-4.733864 v 4.733864 z M 9.2641793,18.570794 6.8354176,17.188613 V 14.212275 L 9.2641793,11.78794 Z"
+       fill="#273a64"
+       id="path9-4"
+       style="fill:url(#linearGradient5331);fill-opacity:1;stroke-width:0.441591;stroke:url(#linearGradient5363)" />
+    <path
+       d="M 15.988875,1.1624884 5.9514849,6.9561808 V 18.543557 l 10.0373901,5.79811 10.04181,-5.793693 V 6.9561808 Z m 6.014491,5.122466 2.600974,1.5014202 v 2.7996894 l -2.596556,2.600984 z m 0.786038,12.4838156 -4.680883,2.70696 -2.64955,-2.698131 z M 7.3822487,8.0822365 H 12.027793 L 11.868826,8.2279676 C 11.73635,8.3516069 11.603864,8.4840829 11.484634,8.61215 l -4.1023853,4.11564 z m 5.4845753,1.1790573 a 4.6102228,4.6102228 0 1 1 0.03095,6.9153292 L 12.376695,15.64671 A 4.592559,4.592559 0 0 1 12.487088,9.6410581 Z M 16.27591,6.6691463 H 9.3296708 L 13.838321,4.0549162 16.48788,6.7044745 Z m -4.919334,9.9490697 a 5.9791585,5.9791585 0 0 0 0.525496,0.534323 l 4.945834,5.038574 -0.839031,0.485748 -4.738284,-2.729042 v -3.440006 z m 9.216035,-7.8780084 -5.453667,-5.4271647 0.883187,-0.5034125 4.583726,2.6495487 v 3.2854468 z m -0.710964,8.5977994 4.738284,-4.733865 v 4.733865 z M 9.806592,19.10438 7.3778303,17.722199 V 14.74586 L 9.806592,12.321525 Z"
+       fill="#273a64"
+       id="path9"
+       style="stroke-width:0.441591" />
+  </g>
 </svg>
