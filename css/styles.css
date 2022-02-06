@@ -224,7 +224,7 @@ h6 {
 .main-nav__logo {
     width: 30px;
     /* Need this for iOS 10 rendering bug */
-    height: 30px;
+    height: 24px;
     margin-right: 13px;
     position: relative;
     top: 3px;
