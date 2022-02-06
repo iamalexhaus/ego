@@ -224,7 +224,7 @@ h6 {
 .main-nav__logo {
     width: 30px;
     /* Need this for iOS 10 rendering bug */
-    height: 24px;
+    height: 30px;
     margin-right: 13px;
     position: relative;
     top: 3px;
@@ -1361,9 +1361,9 @@ pre.highlight {
         padding-bottom: 98px;
     }
     .home-page-header__logo {
-        width: 163px;
-        height: 128px;
-        margin-bottom: 58px;
+        width: 125px;
+        height: 125px;
+        margin-bottom: 60px;
     }
     .home-page-header__heading {
         max-width: 600px;
